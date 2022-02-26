@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judges opinions delivered before His Grace the Lord Chancellor of Ireland, in the cause between John St. Leger, Esq; plaintiff, and John Barret, Esq; defendant Taken by the register of the High Court of Chancery, Saturday the 8th of February, 1678. Present, Lord Chancellor, Lord Chief Justice Booth, Lord Chief Baron, Sir Richard Kennedy, Mr. Justice Johnson, Mr. Justice Jones, Sir Richard Reynell.</title>
+            <author>Jubbes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70357</idno>
+            <idno type="STC">Wing J1169A</idno>
+            <idno type="STC">ESTC R217109</idno>
+            <idno type="EEBO-CITATION">99828810</idno>
+            <idno type="PROQUEST">99828810</idno>
+            <idno type="VID">33242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1969:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judges opinions delivered before His Grace the Lord Chancellor of Ireland, in the cause between John St. Leger, Esq; plaintiff, and John Barret, Esq; defendant Taken by the register of the High Court of Chancery, Saturday the 8th of February, 1678. Present, Lord Chancellor, Lord Chief Justice Booth, Lord Chief Baron, Sir Richard Kennedy, Mr. Justice Johnson, Mr. Justice Jones, Sir Richard Reynell.</title>
+                  <author>Jubbes, John.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Jubbes.</note>
+                  <note>Caption title.</note>
+                  <note>The words "Lord Chancellor, .. Sir Richard Kennedy," are joined by a right brace.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Copy annotated at end in MS., with dates of appeals and judgment.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Leger, John, --  Sir, d. 1743 --  Early works to 1800.</term>
+               <term>Barrett, John, d. 1753 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33242:1" rendition="simple:additions"/>
+            <head>The JUDGES Opinions delivered before His Grace the Lord Chancellor of <hi>Ireland,</hi> in the Cauſe between <hi>John St. Leger,</hi> 
+               <abbr>Eſq</abbr> Plaintiff, and <hi>John Barrett,</hi> 
+               <abbr>Eſq</abbr> Defendant. Taken by the Regiſter of the High Court of Chancery, <hi>Saturday</hi> the 8th of <hi>February,</hi> 1678.</head>
+            <list>
+               <head>PRESENT,</head>
+               <item>
+                  <hi>Lord Chancellor,</hi>
+               </item>
+               <item>
+                  <hi>Lord Chief Juſtice</hi> Booth,</item>
+               <item>
+                  <hi>Lord Chief Baron,</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Richard Kennedy,</item>
+               <item>
+                  <hi>Mr. Juſtice</hi> Johnſon,</item>
+               <item>
+                  <hi>Mr. Juſtice</hi> Jones,</item>
+               <item>
+                  <hi>Sir</hi> Richard Reynell.</item>
+            </list>
+            <p>THE Notes of the 10th of <hi>May,</hi> 1678, Read. Lord Chancellor, the Notes are ſhort in this, for His Grace gave a Reaſon why this Court may deter<g ref="char:EOLhyphen"/>mine points of Law, was becauſe the Court may have the Judges preſent.</p>
+            <div type="part">
+               <head>The latter part of the Notes <hi>9th</hi> of <hi>Decemb.</hi> Read.</head>
+               <p>Sir <hi>Richard Reynell,</hi> That upon the hearing of this Cauſe, ſeveral points fell out; that of the Intail, and that of the Remitter: As to the Intail, the Court by Approbation of the parties, ſent it to be tryed, and the Jury ſaid they did not find any Intail, and the Court declared the Verdict ſufficient and ſatisfactory. So that of the Intail is now out of doors: but the Defendant ſaith, Though there were no Intail, yet the Intent of the Will is for him, and for the Opinion of the Judges, upon the Conſtruction of the Will the Judges called together; ſaith, There was an Original Equity, becauſe the Witneſſes in <hi>England.</hi> Several Caſes have been put concerning the favourable Conſtruction of Wills; for that ſaith, Where Lands are given by a Will, the words muſt carry it; the Defendant hath urged the Preamble and Body of the Will, the Intail by Reputation. Sir <hi>William Bar<g ref="char:EOLhyphen"/>rett</hi>'s Anſwer, That the Teſtator was conſulting Juſtice and Conſcience. Pray where was Juſtice and Conſcience, to diſinherit the Right Heir? That of Juſtice and Conſcience may be broken off after the wrangling World: but if you carry Juſtice and Conſcience to the Intail, conceives that of Juſtice and Conſcience is ſubſervient to the Conſtruction, for the Plaintiff as well as for Defendant. You muſt look upon it now, as if there were no In<g ref="char:EOLhyphen"/>tail; and if ſo by the words of the Will, it muſt be, as if he had ſaid the Lands, for which there is no Intail, muſt go to my Uncle <hi>St. Leger:</hi> It cannot be denied but the greateſt part of the Lands came by the Mother, and that might raiſe a doubt in Sir <hi>William,</hi> that the Lands were not Intailed; and therefore he ſaith, Thoſe Intailed, I give to thoſe; not Intailed I give to the Plaintiff; doth acknowledge, that if he had referred to the Inquiſi<g ref="char:EOLhyphen"/>tions, the Caſe would have been ſtronger; as in <hi>Mollineux</hi>'s Caſe ſaith, It is not left to the Defendant by Name, nor what Eſtate, nor what Lands, only to the Right Heir, ſaith, He hath looked over all the Witneſſes on both ſides; and it ſeems to him, that there are more Witneſſes, and of better quality on the part of the Plaintiff, than on the part of the De<g ref="char:EOLhyphen"/>fendant. The uſe he makes of this, is, That there would be great inconvenience to the Subject to allow Conſtruction <hi>de horſe;</hi> concludes as to this point, that the words of the Will, and not the intent ought to govern: As to the Inquiſitions, muſt look upon as a Colluſion or Contrivance; for here is an Eſtate of 1000 <hi>
+                     <abbr>l.</abbr> per Annum,</hi> and yet the perſon concerned knows nothing of them. Then the Feofment by <hi>Andrew,</hi> was but a Contri<g ref="char:EOLhyphen"/>vance to draw his Wives Eſtate to him, and enable him to make Intail; conceives that neither the Witneſſes, nor the Inquiſitions, nor the Anſwer ought to give the Court ground to diſpoſe of the Lands otherwiſe than according to the words of the Will. As to Sir <hi>Moyle Finches</hi> Caſe, there the Mannor had been once a Mannor <hi>de facto,</hi> but diſſolved by accident, ſo not a-kin to this Caſe. Then for the Caſe <hi>Hob.</hi> 32. there was a Wife <hi>de
+<pb n="2" facs="tcp:33242:2"/>
+facto,</hi> but here is no Intail <hi>de facto;</hi> If there had been an Intail produced, ſomething might have been ſaid. As to the Caſe <hi>Anderſon</hi> 188, there it was, I deviſe all my Lands In<g ref="char:EOLhyphen"/>tail, not adjudged all my Lands that I thought Intailed: As to the Caſe in <hi>Stiles,</hi> that Tythes ſhall be intended, there it was upon a fair Conſtruction. In this Caſe you muſt fetch all out of Averments; you muſt aver for the Perſon; you muſt aver for the Eſtate; you muſt aver for the Land; you can have nothing but by Averment; That the Defen<g ref="char:EOLhyphen"/>dants Councel would have it ſtrong enough to intercept the Deviſer, and not ſtrong enough to intercept the Heir, for which he ſees no reaſon at all: To allow Foreign Conſtructions, would be of great inconvenience, for Witneſſes may ſwear one way, and Witneſſes the other; Therefore it is a good Rule of Law, that the Law ſhould be cer<g ref="char:EOLhyphen"/>tain in ſuch Caſes, and that it might ariſe out of the Letter of the Will; and for this re<g ref="char:EOLhyphen"/>lies upon the Lord <hi>Chenyes</hi> Caſe, and the Caſe of <hi>Brett</hi> and <hi>Rigden</hi> in <hi>Plowden.</hi> In this latter Caſe the Teſtator told, that his Son ſhould have the Land: but the Judges ſaid this would not do, becauſe Lands muſt paſs by Writing; but theſe words not in Writing, will inſtance one Caſe more, that is 2 <hi>Leonard</hi> 70. ſaith, That to him it ſeems very plain, that as this Caſe is, the Plaintiff ought to be put into the poſſeſſion of the Lands, and that he ought to have a Decree accordingly: according to the prayer of his Bill, ſaith, If he be put into poſſeſſion, he muſt reſort again to this Court, if the Heir ſhould commence action to prove the Will.</p>
+               <p>Mr. Juſtice <hi>Jones</hi> premiſeth two things: Firſt, That the Defendant is the perſon in<g ref="char:EOLhyphen"/>tended, and 'tis ſo agreed. Next, If the Lands be Intailed, the Defendant is true and lawful Heir; will not ſpeak to the Verdict, though he conceives much might be ſaid, be<g ref="char:EOLhyphen"/>cauſe he finds he is reſtrained as to that, will ſpeak of what hapned before the Death of Sir <hi>William Barrett,</hi> will ſpeak to the Reputation: The Inquiſition was taken before the Chief Juſtice of <hi>Munſter,</hi> and it finds the Deed, which is to be believed before all Witneſſes, if there were Ten thouſand Witneſſes. How this Intail has been defeated, can<g ref="char:EOLhyphen"/>not ſay; as to the Will of Old <hi>Andrew,</hi> no mention there, that it was <hi>Katherines</hi> Eſtate: As to the Inquiſition, after the death of Sir <hi>James,</hi> no mention the Eſtate was <hi>Katherines,</hi> and <hi>Andrew</hi> complained her Joynture was too heavy for his Eſtate: It appears too, that <hi>Katherine</hi> took to her Joynture. Then the ſecond Inquiſition was taken before Sir <hi>P. Percival,</hi> who very well underſtood what Intails were. There was another Inquiſition taken after the death of Sir <hi>Andrew,</hi> will reflect upon none; but it was taken before Mr. <hi>Mead,</hi> and it was taken by new men, who might not be knowing in the Settlements, Now we'l ſpeak, what the intent of a Teſtator does operate in a Will, next as to the Re<g ref="char:EOLhyphen"/>putation, as to the intent. It is the thing that in Law is always taken to guide the Will; for this <hi>Plowden, Hill</hi> and <hi>Cradocks</hi> Caſe 107. the ſame Book <hi>Weldons</hi> Caſe 516. <hi>Hob.</hi> 75. what was the intent here, I leave all my Eſtate Intailed to the Right and lawful Heir: It is the duty of Juſtice to give to every one what belongs to him, and Conſcience to per<g ref="char:EOLhyphen"/>form the Truſt repoſed in him, upon creating of the Intail, as to <hi>Chenyes</hi> Caſe, conceives it makes wholly for the Defendant, for there an Averment was allowed that <hi>John</hi> was the perſon intended. In <hi>E.</hi> 3's time, a man had two Sons of one name, and their Aver<g ref="char:EOLhyphen"/>ment was allowed: So in <hi>Fitz-Herbert,</hi> 22 Title Deviſe, which was a much ſtronger Caſe than this. And Sir <hi>Moyle Finches</hi> Caſe is, That things ſhall paſs by Reputation, and ſo 2 <hi>Leon.</hi> 120. will conſider a little of the Intail. No doubt but there was an Intail, were it the Eſtate of <hi>Katherine,</hi> or the Eſtate of <hi>Andrew:</hi> but ſaith, If it were the Eſtate of <hi>Kathirine,</hi> it might have been defeated, either by Action or Remitter; conceives Sir <hi>An<g ref="char:EOLhyphen"/>drew</hi> nor Sir <hi>James</hi> could be remitted, becauſe the Statute of Uſes, which fixed the Eſtate in them, and they muſt take accordingly: As to the objection, that if there had been an Intail, no need of Deviſe, if the Lands did not paſs by the Will to the Defendant, then he is in as a Diſſeiſor, and no <hi>Subpoena</hi> lyes againſt him; if they do paſs by the Will, the Plaintiff ought to be diſmiſſed; Concludes he conceives the Plaintiff ought to be diſmiſſed as to all the Lands that had the Reputation of an Intail, and have a Decree for all thoſe things that were purely in Fee-ſimple.</p>
+               <p>Mr. Juſtice <hi>Johnſon,</hi> That 'tis a difficult thing to judge of intents, but no difficulty to judge of intents, according to what the Law directs; Conceives the Queſtion before them is, Whether the Lands be deviſed to the Plaintiff or Defendant? and conceives by the words of the Will, the Lands are deviſed to the Plaintiff, concerning Chatels, Intents have been admitted: and ſo concerning Lands; but then that intent muſt be Collected out of the Will it ſelf; and the Statute directs Lands diſpoſed by Will, muſt be by Will in Wri<g ref="char:EOLhyphen"/>ting; ſaith, The words are not ambiguous, they are plain, thoſe Intailed are ſo, thoſe not Intailed ſo: The whole Will muſt be conſidered; ſaith, the Defendants Councel object that he intended ſomething, for that he appointed Guardian, <hi>&amp;c.</hi> From thence does not neceſſarily follow, that he intended to give any thing abſolutely, but conditionally; Con<g ref="char:EOLhyphen"/>cludes he is of opinion the Lands are by the Will demiſed to the Plaintiff.</p>
+               <p>
+                  <pb n="3" facs="tcp:33242:2"/>Sir <hi>Richard Kennedy,</hi> That the Court deſires only to know, that admit there be no Intail <hi>quid operator,</hi> what does paſs by the Will; for that will not open the Curtain ſhut by the Court, only peep into the matter of the Intail.</p>
+               <p>Lord Chancellor, That His Grace intends the Lords the Judges ſhould ſpeak to what they pleaſed.</p>
+               <p>Sir <hi>Richard Kennedy,</hi> If no Intail, no Will, an eaſie way of Conveyance to a third perſon the Heir; Conceives the Lands had the Reputation of an Intail; it is gray-headed; 'tis One hundred years old; 'twas believed by Sir <hi>William;</hi> the Coun<g ref="char:EOLhyphen"/>trey believed it; conceives the Will good to paſs to both, according to the intent of the Will: It appears to him that Sir <hi>William</hi> believed it to be an Intail, becauſe he ſaith, When his Soul ſat upon his lips, and was ready to take wing, and fly to another world, I give as I ought to do. And it ſeems to him, that the Plaintiff alſo took it to be an Intail, by undertaking the Guardianſhip; Obſerves that it appears by the proofs that Sir <hi>William</hi> was tempted at the time of his death to change his Will, and he anſwered with a <hi>quae Deus conjunxit.</hi> Theſe which God hath joyned, I will not ſever. Then the Witneſſes ſpeak, That he ſaid he would <hi>Dock</hi> the In<g ref="char:EOLhyphen"/>tail, that implies he thought there was an Intail. Then it ſeems to him by the words of the Will, if he prove good for any thing, breed him as well as you can; if not, turn him amongſt the reſt, is an Argument there was a great ſtrugling the Teſtator had concerning the Defendant, how to diſpoſe of him; the words im<g ref="char:EOLhyphen"/>port, as if his Guardian ſhould breed him vertuouſly, and marry him advantage<g ref="char:EOLhyphen"/>ouſly; and for the words, <hi>Turn him amongſt the reſt,</hi> cannot be conſtrued to <hi>turn the Defendant out of his Eſtate,</hi> but among his Popiſh kindred; for certainly he intended he ſhould be bred a Proteſtant; I leave all my Eſtate; Shall it be all? and ſhall it be none, as ſome would have it? The Teſtator begins, as in Juſtice and Conſcience I ought, and provides for payment of his debts. There was a debt due to the De<g ref="char:EOLhyphen"/>fendant, the Intailed Eſtate; believes if Sir <hi>William</hi> were here at this day, he would give it other Epithets than wrangling world; Concludes, that he conceives that there was an Intail in Reputation, and that the Lands are well deviſed to the De<g ref="char:EOLhyphen"/>fendant by the Will, becauſe Sir <hi>William</hi> looked upon the Lands to be intailed; and if ſo conceives, though there were no Intail, that the Lands ſhall paſs to the Defen<g ref="char:EOLhyphen"/>dant by the intent, and the like Caſe concerning things in Reputation was Adjudged in 2 <hi>Leonard,</hi> in <hi>Jones</hi>'s Reports, and <hi>Crook Car.</hi> 271.</p>
+               <p>In the Caſe at Bar the Lands were reputed to be Intailed at the time of the deviſe; but it hath been objected, that the Reputation was taken away, but conceives it was not for Reputation, is taken to be what the Countrey doth believe and know. Inſtanceth Sir <hi>Moyle Finches</hi> Caſe for Reputation; ſaith he has delivered his ſenſe, leaves it to His Graces better Judgment.</p>
+               <p>Lord Chief Baron, The Bill is to prove the Will, and to have poſſeſſion: As to the firſt, it is agreed on all hands the Will well proved. As to the ſecond he is to ſpeak to, whether the Plaintiff ſhall be put into poſſeſſion; for that he muſt ſay now, as he ſaid formerly; that the Verdict is not poſitive, it ought to be poſitive, either Negative or Affirmative, or the Court can make no Decree. Next it does not appear what Eſtate Sir <hi>William</hi> had to deviſe, it hath not been proved that he had an Eſtate in Fee, as to the Conſtruction of the Will, will take the ſame method he did when he ſpoke laſt; ſaith, There are certain Rules and Grounds in the Law concerning the Expoſition of Wills. Firſt the Intent is to be found out; Next no violence offered to the Will. The Rules for Conſtruction of Wills appear in 1 <hi>Rolls</hi> 319.</p>
+               <p>The Deviſor was a Gentleman of an ancient family, and had a fair Eſtate, and believed he had Lands which were Intailed, and Fee-ſimple Lands; the words, <hi>I leave all my Lands Intail.</hi> It is to be conſidered, whether theſe words are Nugatory, or what they import. Firſt, they import that the Lands Intail ſhould be deviſed to the Defendant, for he does not pretend to be Heir at Law: It was Juſtice it ſhould be ſo by Argument, <hi>ab extra;</hi> that is, the Statute <hi>de Donis Conditionalibus</hi> is ſo. Next <hi>ab intra,</hi> his Conſcience told him he ought to leave them to the right Heir. By the ſcope of the Will, and the intent of the Deviſor it may be Collected the Deviſor had Lands which he believed were Intailed, and which he intended ſhould go to his Heir intail. Then it appears by the Will, that the Deviſor had Lands in Fee; ſaith, It is plain to him, that the Deviſor intended the Land intailed, or which he be<g ref="char:EOLhyphen"/>lieved to be intailed, ſhould go to the Defendant, thoſe in Fee to the Plaintiff. If you ſhould make other Conſtruction, you will go contrary to the Will, and give
+<pb n="4" facs="tcp:33242:3" rendition="simple:additions"/>
+that to Plaintiff, which was intended for Defendant, and give the Defendant no<g ref="char:EOLhyphen"/>thing; then there is no neceſſity for ſuch Conſtruction; that there was an Intail, you have the Reputation.</p>
+               <p>Sir <hi>William</hi>'s Oath, Several Circumſtances that he believed it was Intailed, that he raiſed money on his Fee-ſimple Lands; that he ſaid he would <hi>Dock</hi> the Intail, will not ſpeak to the two firſt Inquiſitions, only to the third, which finds it Fee-ſimple Lands; ſaith, The Eſcheator was Judg and Party, and the Leaſe for years would have been in danger, if a Fee had not been found. The Deviſor provides for the Education of the Defendant, and appoints a Guardian, which to him ſeems an undeniable Argument, that Sir <hi>William</hi> believed the Lands were Intailed; for if no Eſtate, what needs a Guardian? To give the Eſtate to the Plaintiff, would be to make us ridiculous to poſterity, to give a thing againſt the intent of the Teſtator, and that a Guardian ſhould be appointed to one who hath no Eſtate. If none but the Deviſor himſelf had believed the Reputation, it would be ſufficient to paſs the Land, 1 <hi>Inſt.</hi> If a man deviſe <hi>in perpetuam,</hi> it ſhall be a Fee, that all the words may ſtand together, <hi>Fitz Herbert,</hi> Title, Deviſe 22.</p>
+               <p>Theſe Caſes ſhew, that Wills ought to be expounded, that all parts may ſtand to<g ref="char:EOLhyphen"/>gether, and none rejected; Conceives, that if the Lands that were Reputed to be Intailed, be given to the Defendant, and thoſe in Fee to the Plaintiff; That all the parts of the Will, will ſtand together: The Plaintiffs Council would have the In<g ref="char:EOLhyphen"/>tent help the Plaintiff, and will not admit the Defendant to be helpt by the Intent; for it is as doubtful what Lands the Plaintiff ſhall have, as it is what the Defendant ſhall have. As to the perſon, conceives he is well deſcribed, both by the Will and Proofs, and the perſon intended by the Will. It hath been objected Averment ſhall not lye, for that conceives Averments in all Caſes, for clearing up the Intent of the Deviſor; and ſo is <hi>Chenyes</hi> Caſe. Upon the whole matter conceives the Deviſe to the Defendant is good, and that he ought to be Diſmiſſed.</p>
+               <p>Lord Chief Juſtice <hi>Booth,</hi> The Deviſing words are only material, and the point be<g ref="char:EOLhyphen"/>fore us; The queſtion, what deviſed to the Defendant? and if there be no Intail, how can it go to the Defendant? There is another right Heir; it does not appear to him that the Defendant is the perſon intended. His Opinion is, If there be no Intail, that nothing paſſeth to the Defendant: If there had been an Intail <hi>de jure,</hi> or <hi>de facto,</hi> it is likely his Opinion would have been otherwiſe.</p>
+               <p>Lord Chancellor: Being the Judges differ, will not take upon him now to determine.</p>
+               <pb facs="tcp:33242:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
